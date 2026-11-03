@@ -24,30 +24,28 @@ I'm an engineering graduate interested in robotics, intelligent systems, and usi
 - SQL
 - Power BI
 - Excel and data visualization
+- scikit-learn, Streamlit
 
 **Tools**
 - Git and GitHub
 - MATLAB
 - Tinkercad
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### AI Resume & Job Matcher
+A Python + Streamlit application that compares a resume with a job description, estimates text similarity using TF-IDF, and identifies matched and potentially missing skills.
+- PDF, DOCX, and TXT resume input
+- Transparent skill overlap analysis
+- Local-first processing; no external AI API required
+- [View source code and setup instructions](projects/ai-resume-job-matcher/README.md)
 
 ### Upper Limb Rehabilitation System
 A prototype rehabilitation system developed to assist upper-limb movement using EMG signal detection and pneumatic actuation.
-
-**System overview**
-1. EMG sensor detects muscle activity.
-2. Arduino processes the sensor signal.
-3. A relay switches the 5/2-way solenoid directional control valve.
-4. The valve controls a double-acting pneumatic cylinder to provide assisted movement.
-
-**Design & implementation**
-- CAD-designed components and 3D-printed parts
-- Pneumatic actuation using a double-acting cylinder
-- Electropneumatic control using a relay and 5/2 DCV
-- Prototype-focused design; no real-time feedback control implemented
-
-**Project documentation and demonstrations will be added as the repository is organized.**
+- EMG sensor → Arduino → Relay → 5/2 DCV → double-acting pneumatic cylinder
+- CAD design and 3D-printed components
+- No real-time feedback control implemented in the prototype
+- [View project documentation](projects/upper-limb-rehabilitation/README.md)
 
 ## 📚 Currently Learning
 - Python for Data Science
