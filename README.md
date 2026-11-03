@@ -8,7 +8,7 @@ I'm an engineering graduate interested in robotics, intelligent systems, and usi
 - 🎓 B.E. in Robotics and Automation
 - 🤖 Interested in robotics, automation, and embedded systems
 - 📊 Building skills in data analytics, Python, SQL, and Power BI
-- 🧠 Exploring Generative AI and practical AI applications
+- 🧠 Exploring AI agents, deep research, Generative AI, and practical AI applications
 - 🌱 Focused on developing projects and continuously improving my technical skills
 
 ## 🛠️ Skills & Technologies
@@ -50,12 +50,13 @@ A prototype rehabilitation system developed to assist upper-limb movement using 
 ## 📚 Currently Learning
 - Python for Data Science
 - Data analysis and visualization with Power BI
+- AI automation and practical AI workflows
 - Generative AI and prompt engineering
-- Practical AI and automation workflows
 
 ## 🤝 Let's Connect
 - GitHub: [@rahilaltaf13](https://github.com/rahilaltaf13)
 - LinkedIn: [Rahil Altaf Wani](https://www.linkedin.com/in/rahil-altaf-wani-720223259/)
+- Email: [rawsells99@gmail.com](mailto:rawsells99@gmail.com)
 
 ---
 *Thanks for visiting my profile!*
